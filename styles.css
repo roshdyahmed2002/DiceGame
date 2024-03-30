@@ -1,0 +1,37 @@
+
+body{
+  background-color: #393E46;
+}
+.title{
+  text-align: center;
+  font-size: 80px;
+  color: #4ECCA3;
+}
+.playersFlex{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  gap: 50px;
+}
+.playerFlex{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.playerWord{
+ color: #4ECCA3;
+}
+
+.btnFlex{
+  display: flex;
+  justify-content: center;
+}
+.btn{
+  background-color:#4ECCA3 ;
+
+
+}
+
+.footerWord{
+  color: white;
+}
